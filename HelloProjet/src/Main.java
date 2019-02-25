@@ -7,5 +7,6 @@ public class Main {
         System.out.println("HelloWorld!");
 		System.out.println("zhangsan01第一次编译");
 		System.out.println("lisi第一次编译");
+		System.out.println("lisi编译，测试冲突");
     }
 }
