@@ -11,6 +11,6 @@ public class Main {
 		System.out.println("zhangsan±àÒë£¬³åÍ»²âÊÔ");
 		System.out.println("123");
 		System.out.println("456");
-
+		System.out.println("456");
     }
 }
