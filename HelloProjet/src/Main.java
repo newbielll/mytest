@@ -8,5 +8,6 @@ public class Main {
 		System.out.println("zhangsan01µÚÒ»´Î±àÒë");
 		System.out.println("lisiµÚÒ»´Î±àÒë");
 		System.out.println("zhangsan±àÒë£¬³åÍ»²âÊÔ");
+		System.out.println("lisi±àÒë£¬²âÊÔ³åÍ»");
     }
 }
